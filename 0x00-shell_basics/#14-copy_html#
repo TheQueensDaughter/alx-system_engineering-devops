@@ -1,2 +1,2 @@
 #!/bin/bash
-rsync --i ./*.html ..
+rsync --ignore existing ml ..
